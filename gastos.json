@@ -1,0 +1,24 @@
+{
+    "gastos": [
+        {
+            "id": 1,
+            "nome": "moto",
+            "valor": 570.0,
+            "data": "2026-10-20",
+            "categoria": "Transporte",
+            "cor": "#ff00ff"
+        },
+        {
+            "id": 3,
+            "nome": "net",
+            "valor": 130.0,
+            "data": "2026-10-20",
+            "categoria": "Contas",
+            "cor": "#0000ff"
+        }
+    ],
+    "proximo_id": 4,
+    "orcamentos": {
+        "2026-10": 2000.0
+    }
+}
